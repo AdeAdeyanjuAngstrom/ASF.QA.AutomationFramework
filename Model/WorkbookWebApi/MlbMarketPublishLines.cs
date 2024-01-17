@@ -1,0 +1,74 @@
+﻿namespace AutomationFramework.Model.WorkbookWebApi
+{
+    public class MlbMarketPublishLinesRequestModel
+    {
+        public string FixtureKey { get; set; }
+        public string SimulationKey { get; set; }
+        public int MM_M { get; set; }
+        public int MM_T { get; set; }
+        public int MM_S { get; set; }
+        public int MM_H { get; set; }
+        public int MM_A { get; set; }
+        public int FH_M { get; set; }
+        public int FH_T { get; set; }
+        public int FH_S { get; set; }
+        public int FH_H { get; set; }
+        public int FH_A { get; set; }
+        public int BTH { get; set; }
+        public int BTK { get; set; }
+        public int BTR { get; set; }
+        public int BHR { get; set; }
+        public int BHW { get; set; }
+        public int BTB { get; set; }
+        public int BTI { get; set; }
+        public int BHH { get; set; }
+        public int PTH { get; set; }
+        public int PTK { get; set; }
+        public int PTR { get; set; }
+        public int PHR { get; set; }
+        public int PHL { get; set; }
+        public int PTB { get; set; }
+        public int PTO { get; set; }
+        public int PRW { get; set; }
+        public int BBB { get; set; }
+        public int BHM { get; set; }
+        public int BHT { get; set; }
+        public int BKS { get; set; }
+        public int BMX { get; set; }
+        public int BOB { get; set; }
+        public int BMB { get; set; }
+        public int PBB { get; set; }
+        public int PHM { get; set; }
+        public int PHT { get; set; }
+        public int PKS { get; set; }
+        public int PMX { get; set; }
+        public int POB { get; set; }
+        public int PMO { get; set; }
+        public int IAO { get; set; }
+        public int IBL { get; set; }
+        public int IBF { get; set; }
+        public int IDP { get; set; }
+        public int IGO { get; set; }
+        public int IHT { get; set; }
+        public int IHR { get; set; }
+        public int ILB { get; set; }
+        public int IPT { get; set; }
+        public int IRS { get; set; }
+        public int ISB { get; set; }
+        public int IKS { get; set; }
+        public int IBB { get; set; }
+        public int IXB { get; set; }
+        public int ABB { get; set; }
+        public int ABS { get; set; }
+        public int ADO { get; set; }
+        public int AEB { get; set; }
+        public int AHR { get; set; }
+        public int AKS { get; set; }
+        public int AOE { get; set; }
+        public int ARE { get; set; }
+        public int ARH { get; set; }
+        public int ASI { get; set; }
+        public int ATR { get; set; }
+        public int ATT { get; set; }
+    }
+}
